@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/somnath-das-1b8678284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/somnath-das-1b8678284" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/somnath-das-1b8678284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somnath-das-1b8678284" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@somnathdasgo04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@somnathdasgo04" height="30" width="40" /></a>
 </p>
 
